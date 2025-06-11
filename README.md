@@ -1,5 +1,7 @@
 # producto2
 # producto2
-##.:
-README.md
-estructura.txt
+## 📁 Estructura del proyecto
+producto2/
+└──.:/
+├── README.md
+└── estructura.txt
