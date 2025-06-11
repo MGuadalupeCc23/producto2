@@ -1,7 +1,7 @@
 # producto2
 # producto2
-## 📁 Estructura del proyecto 
 ```
+## 📁 Estructura del proyecto 
 producto2/
 └──.:/
 ├── README.md
